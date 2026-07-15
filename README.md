@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |

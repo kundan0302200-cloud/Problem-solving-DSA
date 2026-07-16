@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -72,8 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0148-sort-list) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -69,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |

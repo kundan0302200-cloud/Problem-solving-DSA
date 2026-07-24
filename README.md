@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kundan0302200-cloud/Problem-solving-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |

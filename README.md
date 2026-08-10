@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🚀 LeetCode Interview Preparation
+  # 🚀 Leet-Code Interview Preparation 
   
   **A comprehensive, auto-updating collection of Data Structures and Algorithms solutions to ace the coding interview.**
   
